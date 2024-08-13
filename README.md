@@ -9,7 +9,7 @@
 <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd6YmVldm9xOXhscWxyenFkbW4zOHc0bTIyMXlpdGZtdWdvbmZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/omHPYZttAVAAw/giphy.webp" width="50%" height = "50%" :>
   <p/>
 
-background: url("https://i.pinimg.com/564x/5c/10/6e/5c106e93b39fb686dd0d5f76a892962f.jpg")
+background = ("https://i.pinimg.com/564x/5c/10/6e/5c106e93b39fb686dd0d5f76a892962f.jpg")
 
 
 
