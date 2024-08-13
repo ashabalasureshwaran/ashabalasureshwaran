@@ -9,13 +9,11 @@
 <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd6YmVldm9xOXhscWxyenFkbW4zOHc0bTIyMXlpdGZtdWdvbmZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/omHPYZttAVAAw/giphy.webp" width="50%" height = "50%" :>
   <p/>
 
-body {
-    background-image: 
-url('https://media.githubusercontent.com/media/JackTimelessPiece/Website/master/gifs/video.gif');
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin: 0 0 100px; /* bottom = footer height 
-    }
+background: url("https://i.pinimg.com/564x/5c/10/6e/5c106e93b39fb686dd0d5f76a892962f.jpg")
+
+
+
+
 <!---
 ashabalasureshwaran/ashabalasureshwaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
