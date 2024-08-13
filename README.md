@@ -15,7 +15,6 @@ url('https://media.githubusercontent.com/media/JackTimelessPiece/Website/master/
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin: 0 0 100px; /* bottom = footer height 
-
     }
 <!---
 ashabalasureshwaran/ashabalasureshwaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
